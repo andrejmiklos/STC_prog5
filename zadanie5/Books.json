@@ -1,0 +1,62 @@
+[
+  {
+    "id": 211,
+    "name": "Harry Potter",
+    "author": "J. K. Rowling",
+    "genre": "fantasy novel",
+    "year": 1997,
+    "publishers": "Bloomsbury Publishing",
+    "country": "UK",
+    "pages": 358
+  },
+  {
+    "id": 212,
+    "name": "Konec Prokrastinace",
+    "author": [
+      "Petr Ludwig",
+      "Adela Schicker"
+    ],
+    "genre": "self-help",
+    "year": 2013,
+    "publishers": "Jan Melvil Publishing",
+    "country": "CZ",
+    "pages": 272
+  },
+  {
+    "id": 213,
+    "name": "Charlie and the Chocolate Factory",
+    "author": "Roald Dahl",
+    "genre": "novel",
+    "year": 1964,
+    "publishers": "Alfred A. Knopf",
+    "country": "UK",
+    "pages": 176
+  },
+  {
+    "id": 214,
+    "name": "Matilda",
+    "author": "Roald Dahl",
+    "genre": [
+      "Children's lit",
+      "fantasy"
+    ],
+    "year": 1988,
+    "publishers": "Jonathan Cape",
+    "country": "UK",
+    "pages": 232
+  },
+  {
+    "id": 215,
+    "name": "Diary of a Wimpy Kid",
+    "author": "Jeff Kinney",
+    "genre": [
+      "diary",
+      "comedy",
+      "funny novel"
+    ],
+    "year": 2007,
+    "publishers": "CooBoo",
+    "country": "US",
+    "pages": 221
+  }
+]
